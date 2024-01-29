@@ -7,3 +7,5 @@ myOrdner
 ## work with git
 
 ### some explain
+
+### void addSome
